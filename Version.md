@@ -36,3 +36,21 @@ Strict Append Pattern: All updates are permanently appended to the bottom.
   - `docs/logo.svg`
   - `docs/index.html`
   - `Version.md`
+
+## [2026-09-27 12:00:00 IST] - Codeberg Remote Setup
+- **Action:** Added Codeberg remote (`codeberg.org/mrdarksidetm/WinForge`) and verified SSH commit signing.
+- **Changes:**
+  - **Remote Architecture:** Configured `codeberg` remote `git@codeberg.org:mrdarksidetm/WinForge.git`.
+- **Status:** 100% (Configured).
+
+### [2026-10-01 12:36:00 IST] - Tri-Platform Web Pages & Sync Architecture
+- **Action**: Setup GitHub junksidetm repository, configured GitLab Pages and Codeberg Pages pipelines.
+- **Updates**:
+  - Configured multi-push `origin` remote targeting GitHub (`junksidetm/WinForge`), GitLab (`mrdarksidetm/WinForge`), and Codeberg (`mrdarksidetm/WinForge`).
+  - Added `.gitlab-ci.yml` compiling `docs/` Jekyll output to `public/` artifact for GitLab Pages.
+  - Added `.forgejo/workflows/pages.yml` deploying `docs/` Jekyll build to `pages` branch for Codeberg Pages.
+- **Files Modified / Created**:
+  - `.gitlab-ci.yml`
+  - `.forgejo/workflows/pages.yml`
+  - `Version.md`
+- **Status**: 100% (Completed & Deployed)
