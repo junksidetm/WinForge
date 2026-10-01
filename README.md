@@ -4,17 +4,17 @@
 
 <!-- Updated version to v5.0 -->
 <a href="LICENSE"><img src="https://img.shields.io/github/license/mrdarksidetm/winforge?style=for-the-badge&label=License&labelColor=%237126eb&color=%239d70e6" alt="GitHub License"></a>
-<a href="https://github.com/mrdarksidetm/WinForge/commits"><img src="https://img.shields.io/github/last-commit/mrdarksidetm/winforge?style=for-the-badge&label=Last%20Commit&labelColor=%230f8c06&color=%235ecc56" alt="GitHub last commit"></a>
-<a href="https://github.com/mrdarksidetm/WinForge/releases/latest"><img src="https://img.shields.io/badge/Release-v5.0-gold?style=for-the-badge&labelColor=%235c5003" alt="GitHub Release"></a>
+<a href="https://github.com/junksidetm/WinForge/commits"><img src="https://img.shields.io/github/last-commit/mrdarksidetm/winforge?style=for-the-badge&label=Last%20Commit&labelColor=%230f8c06&color=%235ecc56" alt="GitHub last commit"></a>
+<a href="https://github.com/junksidetm/WinForge/releases/latest"><img src="https://img.shields.io/badge/Release-v5.0-gold?style=for-the-badge&labelColor=%235c5003" alt="GitHub Release"></a>
 <a href=""><img src="https://img.shields.io/github/stars/mrdarksidetm/winforge?style=for-the-badge&label=Stars&labelColor=%238c2515&color=%23e8988b" alt="GitHub Repo stars"></a>
 <a href=""><img src="https://img.shields.io/github/downloads/mrdarksidetm/winforge/total?style=for-the-badge&label=downloads&labelColor=%230e1433&color=%234457b8" alt="GitHub Downloads (all assets, all releases"></a>
 
 <h3>WinForge v5.0: The Ultimate Win 11 Experience</h3>
 
-[Features](https://github.com/mrdarksidetm/WinForge?tab=readme-ov-file#-main-features) • [Installation](https://github.com/mrdarksidetm/WinForge?tab=readme-ov-file#-installation) • [Contact](https://github.com/mrdarksidetm/winforge#%EF%B8%8F-contact) • [License](https://github.com/mrdarksidetm/winforge#%EF%B8%8F-licensec)
+[Features](https://github.com/junksidetm/WinForge?tab=readme-ov-file#-main-features) • [Installation](https://github.com/junksidetm/WinForge?tab=readme-ov-file#-installation) • [Contact](https://github.com/junksidetm/winforge#%EF%B8%8F-contact) • [License](https://github.com/junksidetm/winforge#%EF%B8%8F-licensec)
 
 <!-- For releases in both Github and Gitlab -->
-<a href="https://github.com/mrdarksidetm/WinForge/releases/latest"><img src="assets/images/Github.png" height=80 alt="Github Release" target=blank></a>
+<a href="https://github.com/junksidetm/WinForge/releases/latest"><img src="assets/images/Github.png" height=80 alt="Github Release" target=blank></a>
 <a href="https://gitlab.com/mrdarksidetm/WinForge/releases/latest"><img src="assets/images/Gitlab.png" height=80 alt="Gitlab Release" target=blank></a>
 
 </div>
@@ -39,7 +39,7 @@ WinForge is your complete Windows 11 optimization toolkit - fast, secure, and pr
 
 **This is a Powershell script that is not digitally signed so you need to run some commands.**
 
-1. Download the zip from the latest [releases](https://github.com/mrdarksidetm/WinForge/releases/latest) <!-- Link to the latest release -->
+1. Download the zip from the latest [releases](https://github.com/junksidetm/WinForge/releases/latest) <!-- Link to the latest release -->
 2. Unzip it from any of the Unzipping Program
 3. Open `Terminal (Admin)` by right clicking on start button
 4. Paste this command.
