@@ -2,6 +2,12 @@
 <img src="assets\images\Real-BlackIcon.png" alt="WinForge Logo" width="192" /> <!-- Added the WinForge Logo -->
 <h1>WinForge</h1>
 
+<p>
+  <a href="https://github.com/junksidetm/WinForge"><img src="https://img.shields.io/badge/GitHub-Main-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Main" /></a>
+  <a href="https://codeberg.org/mrdarksidetm/WinForge"><img src="https://img.shields.io/badge/Codeberg-Mirror-2185d0?style=flat-square&logo=codeberg&logoColor=white" alt="Codeberg Mirror" /></a>
+  <a href="https://gitlab.com/mrdarksidetm/WinForge"><img src="https://img.shields.io/badge/GitLab-Mirror-fc6d26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab Mirror" /></a>
+</p>
+
 <!-- Updated version to v5.0 -->
 <a href="LICENSE"><img src="https://img.shields.io/github/license/mrdarksidetm/winforge?style=for-the-badge&label=License&labelColor=%237126eb&color=%239d70e6" alt="GitHub License"></a>
 <a href="https://github.com/junksidetm/WinForge/commits"><img src="https://img.shields.io/github/last-commit/mrdarksidetm/winforge?style=for-the-badge&label=Last%20Commit&labelColor=%230f8c06&color=%235ecc56" alt="GitHub last commit"></a>
@@ -135,6 +141,14 @@ If this sparked joy (or saved your sanity), fuel the fire!
 </table>
 </div>
 <br>
+
+## 🌐 Source Mirrors
+
+- **Main (GitHub)**: [github.com/junksidetm/WinForge](https://github.com/junksidetm/WinForge)
+- **Mirror (Codeberg)**: [codeberg.org/mrdarksidetm/WinForge](https://codeberg.org/mrdarksidetm/WinForge)
+- **Mirror (GitLab)**: [gitlab.com/mrdarksidetm/WinForge](https://gitlab.com/mrdarksidetm/WinForge)
+
+---
 
 **🌟 Future Tease:** Signed EXE wrapper incoming—stay tuned via Releases. Questions? Open an Issue. Let's build better Windows, one forge at a time.
 
