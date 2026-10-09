@@ -82,3 +82,12 @@ Strict Append Pattern: All updates are permanently appended to the bottom.
   - `.gitignore`
   - `Version.md`
 - **Status**: 100% (Completed & Synced)
+
+## [2026-10-09 22:15:00 IST] - Hub Ecosystem URL Migration
+- **Action**: Migrated hub navigation links from `mrdarksidetm.github.io` to `junksidetm.github.io`.
+- **Files Modified**:
+  - `docs/_config.yml`: Updated site url.
+  - `docs/_config.yml.bak`: Updated site url.
+  - `docs/index.html`: Updated navbar brand, Atelier Hub navigation, and footer links.
+  - `Version.md`: Appended ledger entry.
+- **Status**: 100% (Completed)

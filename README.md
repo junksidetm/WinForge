@@ -9,25 +9,37 @@
 </p>
 
 <!-- Updated version to v5.0 -->
-<a href="LICENSE"><img src="https://img.shields.io/github/license/mrdarksidetm/winforge?style=for-the-badge&label=License&labelColor=%237126eb&color=%239d70e6" alt="GitHub License"></a>
-<a href="https://github.com/junksidetm/WinForge/commits"><img src="https://img.shields.io/github/last-commit/mrdarksidetm/winforge?style=for-the-badge&label=Last%20Commit&labelColor=%230f8c06&color=%235ecc56" alt="GitHub last commit"></a>
+<a href="LICENSE"><img src="https://img.shields.io/github/license/junksidetm/winforge?style=for-the-badge&label=License&labelColor=%237126eb&color=%239d70e6" alt="GitHub License"></a>
+<a href="https://github.com/junksidetm/WinForge/commits"><img src="https://img.shields.io/github/last-commit/junksidetm/winforge?style=for-the-badge&label=Last%20Commit&labelColor=%230f8c06&color=%235ecc56" alt="GitHub last commit"></a>
 <a href="https://github.com/junksidetm/WinForge/releases/latest"><img src="https://img.shields.io/badge/Release-v5.0-gold?style=for-the-badge&labelColor=%235c5003" alt="GitHub Release"></a>
-<a href=""><img src="https://img.shields.io/github/stars/mrdarksidetm/winforge?style=for-the-badge&label=Stars&labelColor=%238c2515&color=%23e8988b" alt="GitHub Repo stars"></a>
-<a href=""><img src="https://img.shields.io/github/downloads/mrdarksidetm/winforge/total?style=for-the-badge&label=downloads&labelColor=%230e1433&color=%234457b8" alt="GitHub Downloads (all assets, all releases"></a>
 
 <h3>WinForge v5.0: The Ultimate Win 11 Experience</h3>
 
 [Features](https://github.com/junksidetm/WinForge?tab=readme-ov-file#-main-features) • [Installation](https://github.com/junksidetm/WinForge?tab=readme-ov-file#-installation) • [Contact](https://github.com/junksidetm/winforge#%EF%B8%8F-contact) • [License](https://github.com/junksidetm/winforge#%EF%B8%8F-licensec)
 
-<!-- For releases in both Github and Gitlab -->
-<a href="https://github.com/junksidetm/WinForge/releases/latest"><img src="assets/images/Github.png" height=80 alt="Github Release" target=blank></a>
-<a href="https://gitlab.com/mrdarksidetm/WinForge/releases/latest"><img src="assets/images/Gitlab.png" height=80 alt="Gitlab Release" target=blank></a>
-
 </div>
 
-<img src="assets\images\WinForge-Preview.png" alt="Preview" target=blank /> <!-- WinForge Banner -->
+<div align="center">
+  <a href="https://junksidetm.github.io/WinForge/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/junksidetm/assests/2059cd31ecfc7cd57fab1d30a4baa11810783b48/Images/badges/SVG%20-%20Version/Website%20Badge.svg" alt="Live Demo on GitHub Pages" width="190">
+  </a>
+</div>
+
+---
+
+# 🪄 Installation
+
+Run this command below in `Terminal (Admin)`
+
+
+```powershell.exe
+iwr -useb https://raw.githubusercontent.com/junksidetm/WinForge/main/Main%20Script/WinForge.ps1 | iex
+```
+
+<i>Right click on Windows Logo to open it. If you don't know how to open terminal. Also in **Windows 10** terminal is named as powershell. So use `powershell(Admin)`</i>
 
 ## 🌟 Main Features (v5.0 Next-Gen)
+<img src="assets\images\WinForge-Preview.png" alt="Preview" target=blank /> <!-- WinForge Banner -->
 
 * **✅ Windows Recall & AI Purge:** Securely remove Microsoft Recall and Copilot to reclaim your privacy and system resources.
 * **🎮 Ultimate Game Mode:** One-click optimization for maximum FPS, low latency, and high-performance power profiles.
@@ -41,21 +53,6 @@
 
 WinForge is your complete Windows 11 optimization toolkit - fast, secure, and professional-grade! 🎉
 
-# 🪄 Installation
-
-**This is a Powershell script that is not digitally signed so you need to run some commands.**
-
-1. Download the zip from the latest [releases](https://github.com/junksidetm/WinForge/releases/latest) <!-- Link to the latest release -->
-2. Unzip it from any of the Unzipping Program
-3. Open `Terminal (Admin)` by right clicking on start button
-4. Paste this command.
-
-```powershell.exe
-Set-ExecutionPolicy Unrestricted -Scope CurrentUser
-cd "Downloads\WinForge" #remove the "path" with the actual path of the folder. 
-.\WinForge.ps1 #As it is in your downloads folder, Windows asks you do you wanna run it or not. Type R and press enter.
-R
-```
 
 # 📲 Import Configrations and Files
 

@@ -2,7 +2,7 @@
 title: WinForge
 description: A Windows 11 optimization tool with debloating, minimalism, and enhancements via PowerShell script.
 baseurl: ""
-url: "https://mrdarksidetm.github.io"
+url: "https://junksidetm.github.io"
 permalink: /:title/
 
 remote_theme: sergiokopplin/indigo
