@@ -1,0 +1,14 @@
+# Jekyll generated sites
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Bundler / Ruby
+vendor/
+.bundle/
+
+# OS Metadata
+.DS_Store
+Thumbs.db
+desktop.ini
